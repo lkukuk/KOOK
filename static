@@ -1,0 +1,6 @@
+<script>start("/Users/desireedavison-kukuk/kook_website/static/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("static","static",1,96,"96 B",1754865907,"8/10/25, 5:45:07 PM");</script>
+<script>addRow("logo.png","logo.png",0,0,"0 B",1750951760,"6/26/25, 10:29:20 AM");</script>
+<script>addRow("manifest.json","manifest.json",0,426,"426 B",1754865814,"8/10/25, 5:43:34 PM");</script>
+<script>addRow("static.css","static.css",0,3438,"3.4 kB",1755620976,"8/19/25, 11:29:36 AM");</script>
